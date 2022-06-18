@@ -1,0 +1,173 @@
+@charset "ISO-8859-1";
+*{
+	margin:0;
+	padding:0;
+	
+}
+.container{
+	Display:flex;
+	justify-content:space-between;
+	background-color:#192a56;
+	color:white;
+	font-size:18px;
+	padding:15px;
+	
+}
+.container h4{
+	font-family: sans-serif; 
+	margin-left:27vh;
+	margin-right:25vh;
+}
+.container1 img{
+	border-radius: 12px;
+	margin-left:28vh;
+	height:70px;
+	width:90px;	
+}
+.container1{
+	display:flex;
+	background-color:#40739e;
+	justify-content:space-between;
+	color:black;
+	position:sticky;
+	top: -1px;
+    z-index: 1;
+}
+.container1 ul{
+	display:flex;
+    list-style:none;
+    justify-content:space-evenly;
+    text-decoration:none;
+    padding:20px;
+    margin-right:22vh;
+    margin-top:8px;
+    color:black;
+    
+}
+.container1 li a{
+	font-family: sans-serif;
+	margin-right:15px;
+	padding:5px;
+	font-size:15px;
+	text-decoration: none;
+	color:#ffffff;
+}
+.display{
+	display:flex;
+	justify-content:space-evenly;
+}
+.container2 h2{
+	font-size:25px;
+	margin-right:30px;
+	margin-top:20px;
+}
+.container2{
+	margin-left:25vh;
+}
+.container2 hr{
+	margin-top:10px;
+}
+.container3{
+	margin-right:25vh;
+}
+.container3 img{
+	margin-top:20px;
+	height:250px;
+	width:400px;
+}
+.box0{
+	margin-top:30px;
+	font-size:20px;
+	background-color:#40739e;
+	color:white;
+	height:50px;
+	width:600px;
+	border-radius:10px;
+}
+.box0 h1{
+	margin-left:10px;
+}
+.box0 a{
+	text-decoration:none;
+	color:white;
+}
+.box1{
+	margin-top:30px;
+	font-size:20px;
+	background-color:#40739e;
+	color:white;
+	height:50px;
+	width:600px;
+	border-radius:10px;
+}
+.box1 h1{
+	margin-left:10px;
+}
+.box1 a{
+	text-decoration:none;
+	color:white;
+}
+.box2{
+	margin-top:30px;
+	font-size:20px;
+	background-color:#40739e;
+	color:white;
+	height:50px;
+	width:600px;
+	border-radius:10px;
+}
+.box2 h1{
+	margin-left:10px;
+}
+.box2 a{
+	text-decoration:none;
+	color:white;
+}
+.box3{
+	margin-top:30px;
+	font-size:20px;
+	background-color:#40739e;
+	color:white;
+	height:50px;
+	width:600px;
+	border-radius:10px;
+}
+.box3 h1{
+	margin-left:10px;
+}
+.box3 a{
+	text-decoration:none;
+	color:white;
+}
+.box4{
+	margin-top:30px;
+	font-size:20px;
+	background-color:#40739e;
+	color:white;
+	height:50px;
+	width:600px;
+	border-radius:10px;
+}
+.box4 h1{
+	margin-left:10px;
+}
+.box4 a{
+	text-decoration:none;
+	color:white;
+}
+.box5{
+	margin-top:30px;
+	font-size:20px;
+	background-color:#40739e;
+	color:white;
+	height:50px;
+	width:600px;
+	border-radius:10px;
+}
+.box5 h1{
+	margin-left:10px;
+}
+.box5 a{
+	text-decoration:none;
+	color:white;
+}

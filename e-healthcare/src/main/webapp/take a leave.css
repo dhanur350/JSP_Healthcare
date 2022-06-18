@@ -1,0 +1,101 @@
+@charset "ISO-8859-1";
+*{
+	margin:0;
+	padding:0;
+}
+.box{
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background: rgba(1, 38, 64, 0.68);
+    padding: 110px 300px;
+    color:white;
+    font-size:27px;
+}
+.book{
+	height:70vh;
+	background:rgba(127,143,166,0.4);
+}
+.form{
+	display:flex;
+	align-content:center;
+	justify-content:space-evenly;
+}
+.container1{
+	margin-top:2vh;
+	display:flex;
+	justify-content:space-evenly;
+}
+
+.container2{
+	display:flex;
+	justify-content:space-between;
+}
+.container3{
+	display:flex;
+	justify-content:space-between;
+}
+.ct1{
+	margin-right:40vh;
+}
+.ct1 input[type=text]{
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+.ct2 input[type=text]{
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+.ct3 input[type=email]{
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+.ct4 textarea{
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+.ct5 input[type=date]{
+  width: 135%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}.ct6 input[type=date]{
+  width: 135%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+.ct6{
+	margin-right:7vh;
+}
+.button{
+	font-size:20px;
+	margin-top:20px;
+  margin-left:33vh;
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 30%;
+  margin-bottom:10px;
+}
+.book h3{
+	padding:5px;
+	text-align:center;
+	color:white;
+	font-size:50px;
+}

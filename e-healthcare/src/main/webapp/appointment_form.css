@@ -1,0 +1,135 @@
+@charset "ISO-8859-1";
+*{
+	margin:0;
+	padding:0;
+}
+.box{
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background: rgba(1, 38, 64, 0.68);
+    padding: 69px 250px;
+    color:white;
+    font-size:27px;
+}
+.box h1{
+	color:white;
+	font-size:50px;
+	text-align:center;
+}
+.book{
+	margin-top:3vh;
+	background:rgba(127,143,166,0.4);
+}
+
+.last{
+	text-align:center;
+	margin-top:5vh;
+}
+.button{
+	font-size:20px;
+	margin-top:20px;
+  margin-left:33vh;
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 30%;
+  margin-bottom:10px;
+}
+.book h3{
+	padding:5px;
+	text-align:center;
+	color:white;
+	font-size:30px;
+}
+.form{
+	display:flex;
+	align-content:center;
+	justify-content:space-evenly;
+}
+.container1{
+	margin-top:2vh;
+	display:flex;
+	justify-content:space-evenly;
+}
+
+.container2{
+	display:flex;
+	justify-content:space-between;
+}
+.container3{
+	display:flex;
+	justify-content:space-between;
+}
+.container4{
+	display:flex;
+	justify-content:space-between;
+}
+.ct1{
+	margin-right:40vh;
+}
+.ct8{
+	margin-right:90px;
+}
+.container1 ct4{
+	margin-right:20px;
+}
+
+.container1 input[type=text]{
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+.ct2 input[type=number]{
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+.ct3 input[type=email]{ 
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+.ct4 input[type=text]{
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+.ct5 input[type=date]{
+	width: 130%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+.ct6 select{
+	width: 110%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+.ct7 select{
+	width: 130%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+.ct8 input[type=time]{
+	width: 200%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
